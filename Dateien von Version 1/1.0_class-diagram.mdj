@@ -87,7 +87,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "Controller",
+											"text": "ElevatorController",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -11396,7 +11396,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Controller",
+					"name": "ElevatorController",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
